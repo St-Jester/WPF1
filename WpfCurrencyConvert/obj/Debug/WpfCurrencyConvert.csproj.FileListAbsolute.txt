@@ -1,0 +1,14 @@
+C:\Users\Kateryna\Documents\Programming\Programming\Practice\Lesson\WPF\WpfCurrencyConvert\WpfCurrencyConvert\bin\Debug\WpfCurrencyConvert.exe.config
+C:\Users\Kateryna\Documents\Programming\Programming\Practice\Lesson\WPF\WpfCurrencyConvert\WpfCurrencyConvert\bin\Debug\WpfCurrencyConvert.exe
+C:\Users\Kateryna\Documents\Programming\Programming\Practice\Lesson\WPF\WpfCurrencyConvert\WpfCurrencyConvert\bin\Debug\WpfCurrencyConvert.pdb
+C:\Users\Kateryna\Documents\Programming\Programming\Practice\Lesson\WPF\WpfCurrencyConvert\WpfCurrencyConvert\obj\Debug\WpfCurrencyConvert.csprojResolveAssemblyReference.cache
+C:\Users\Kateryna\Documents\Programming\Programming\Practice\Lesson\WPF\WpfCurrencyConvert\WpfCurrencyConvert\obj\Debug\MainWindow.g.cs
+C:\Users\Kateryna\Documents\Programming\Programming\Practice\Lesson\WPF\WpfCurrencyConvert\WpfCurrencyConvert\obj\Debug\App.g.cs
+C:\Users\Kateryna\Documents\Programming\Programming\Practice\Lesson\WPF\WpfCurrencyConvert\WpfCurrencyConvert\obj\Debug\WpfCurrencyConvert_MarkupCompile.cache
+C:\Users\Kateryna\Documents\Programming\Programming\Practice\Lesson\WPF\WpfCurrencyConvert\WpfCurrencyConvert\obj\Debug\WpfCurrencyConvert_MarkupCompile.lref
+C:\Users\Kateryna\Documents\Programming\Programming\Practice\Lesson\WPF\WpfCurrencyConvert\WpfCurrencyConvert\obj\Debug\MainWindow.baml
+C:\Users\Kateryna\Documents\Programming\Programming\Practice\Lesson\WPF\WpfCurrencyConvert\WpfCurrencyConvert\obj\Debug\WpfCurrencyConvert.g.resources
+C:\Users\Kateryna\Documents\Programming\Programming\Practice\Lesson\WPF\WpfCurrencyConvert\WpfCurrencyConvert\obj\Debug\WpfCurrencyConvert.Properties.Resources.resources
+C:\Users\Kateryna\Documents\Programming\Programming\Practice\Lesson\WPF\WpfCurrencyConvert\WpfCurrencyConvert\obj\Debug\WpfCurrencyConvert.csproj.GenerateResource.Cache
+C:\Users\Kateryna\Documents\Programming\Programming\Practice\Lesson\WPF\WpfCurrencyConvert\WpfCurrencyConvert\obj\Debug\WpfCurrencyConvert.exe
+C:\Users\Kateryna\Documents\Programming\Programming\Practice\Lesson\WPF\WpfCurrencyConvert\WpfCurrencyConvert\obj\Debug\WpfCurrencyConvert.pdb
